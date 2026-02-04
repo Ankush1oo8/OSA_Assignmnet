@@ -21,7 +21,6 @@ This project is a simple front-end application demonstrating user authentication
 
 
 
-*(To add your screenshots, replace the `placeholder-*.png` files with your actual screenshots and update the paths if necessary.)*
 
 ## Features
 

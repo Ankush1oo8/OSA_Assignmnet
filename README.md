@@ -4,9 +4,22 @@ This project is a simple front-end application demonstrating user authentication
 
 ## Screenshots
 
-| Login Screen                                     | Signup Screen                                      | Home Screen (Logged In)                                |
-| ------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------ |
-| ![Login Screen](placeholder-login-screen.png)    | ![Signup Screen](placeholder-signup-screen.png)    | ![Home Screen](placeholder-home-screen.png)            |
+### Home Screen
+<img width="1790" height="911" alt="image" src="https://github.com/user-attachments/assets/a1dc83ec-bf80-4bd5-acc3-1e8b2b591ec5" />
+
+### SignUp Screen
+<img width="1780" height="898" alt="image" src="https://github.com/user-attachments/assets/c512b6e0-1cbc-4409-822a-3921ffcc5237" />
+
+### Log In Screen
+<img width="1781" height="894" alt="image" src="https://github.com/user-attachments/assets/e6308bfd-5c36-41e2-b214-7d96b3fe83a5" />
+
+### Welcome Popup
+<img width="581" height="237" alt="image" src="https://github.com/user-attachments/assets/f467e19b-2154-495f-8d14-496ba2e4b1e4" />
+
+### Welcome Screen
+<img width="1784" height="900" alt="image" src="https://github.com/user-attachments/assets/ece76999-619a-4488-9933-2685a58974a5" />
+
+
 
 *(To add your screenshots, replace the `placeholder-*.png` files with your actual screenshots and update the paths if necessary.)*
 
@@ -31,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone [https://github.com/Ankush1oo8/OSA_Assignmnet](https://github.com/Ankush1oo8/OSA_Assignmnet)
     ```
 2.  **Navigate to the project directory:**
     ```bash
